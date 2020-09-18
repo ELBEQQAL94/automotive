@@ -1,0 +1,9 @@
+[2020-09-18 09:34:13.794] [sharedprocess] [info] main {"machineId":"b9c2ad4b4fcb2434f038944aa8238682f0526da5340ff71ed32da2e19871de0d","windowId":2}
+[2020-09-18 09:34:14.101] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/youssef/Downloads/automotive/~/.vscode-root/User/snippets'
+[2020-09-18 09:34:27.524] [sharedprocess] [info] Installing extension: vscode-icons-team.vscode-icons
+[2020-09-18 09:34:28.805] [sharedprocess] [info] Downloaded extension: vscode-icons-team.vscode-icons /home/youssef/Downloads/automotive/~/.vscode-root/CachedExtensionVSIXs/vscode-icons-team.vscode-icons-11.0.0
+[2020-09-18 09:34:36.232] [sharedprocess] [info] Extracted extension to /home/youssef/.vscode/extensions/.vscode-icons-team.vscode-icons-11.0.0: vscode-icons-team.vscode-icons
+[2020-09-18 09:34:36.234] [sharedprocess] [info] Renamed to /home/youssef/.vscode/extensions/vscode-icons-team.vscode-icons-11.0.0
+[2020-09-18 09:34:36.238] [sharedprocess] [info] Installation completed. vscode-icons-team.vscode-icons
+[2020-09-18 09:34:36.618] [sharedprocess] [info] Extensions installed successfully: vscode-icons-team.vscode-icons
+[2020-09-18 09:34:53.876] [sharedprocess] [info] Starting to clean up unused language packs.
