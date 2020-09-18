@@ -4,9 +4,9 @@
 ## TODO:
 ----
 
-* [ ] Add repo
-* [ ] Nav bar.
-* [ ] Content
+* [x] Add repo
+* [x] Nav bar.
+* [x] Content
 * [ ] Footer
 * [ ] Responsive
 * [ ] Deploy on netlify
