@@ -14,3 +14,35 @@ Use '--' to separate paths from revisions, like this:
 > git ls-files --stage -- /home/youssef/Downloads/automotive/README.md
 > git config --get commit.template
 > git check-ignore -v -z --stdin
+> git status -z -u
+> git ls-files --stage -- /home/youssef/Downloads/automotive/README.md
+> git symbolic-ref --short HEAD
+> git cat-file -s 0aa473843bd22b8dd18689fc55a2855c6bfcade3
+> git rev-parse master
+> git show --textconv :README.md
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :.gitignore
+> git ls-files --stage -- /home/youssef/Downloads/automotive/.gitignore
+> git cat-file -s dd151ef1330979aa4e919284d64d8b52ccd310c5
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template

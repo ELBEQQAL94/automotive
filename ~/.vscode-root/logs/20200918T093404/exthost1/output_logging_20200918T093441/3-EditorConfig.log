@@ -419,3 +419,8 @@ README.md: insertFinalNewline(LF)
 automotive/README.md: Using EditorConfig core...
 README.md: setEndOfLine(LF)
 automotive/README.md: {"insertSpaces":true,"tabSize":2}
+automotive/README.md: {"insertSpaces":true,"tabSize":2}
+automotive/.gitignore: {"insertSpaces":true,"tabSize":2}
+automotive/.gitignore: Using EditorConfig core...
+.gitignore: setEndOfLine(LF)
+.gitignore: editor.action.trimTrailingWhitespace
